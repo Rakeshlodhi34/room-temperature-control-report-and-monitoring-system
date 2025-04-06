@@ -1,4 +1,4 @@
-# room-temperature-control-report-and-monitoring-system
+# Room-Temperature-Control-Report-and-Monitoring-System
 To create an efficient fan control system using Arduino and DHT11 sensor for temperature-based automation. It focuses on energy conservation.
 # Room Temperature Monitoring & Control System
 
