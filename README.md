@@ -25,7 +25,7 @@ This project showcases a temperature-based automation system using Arduino, DHT1
 - Customize the LCD display for real-time feedback and user interaction.
 
 ## Contributors
-- Rakesh Lodhi  Developer
+- Rakesh Lodhi @kritikagithubtripathi Ashish Barpete
 
 ## Acknowledgments
 - Special thanks to Dr. Kumkum Dubey for supervision and guidance.
